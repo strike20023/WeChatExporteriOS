@@ -1,0 +1,2 @@
+# WeChatExporteriOS
+这是一个在iOS系统上提取微信聊天记录的方法
